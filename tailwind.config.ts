@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				airbnb: {
+					primary: 'hsl(var(--airbnb-primary))',
+					secondary: 'hsl(var(--airbnb-secondary))',
+					'gray-light': 'hsl(var(--airbnb-gray-light))',
+					'gray-medium': 'hsl(var(--airbnb-gray-medium))',
+					'gray-dark': 'hsl(var(--airbnb-gray-dark))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
